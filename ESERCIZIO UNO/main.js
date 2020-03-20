@@ -19,4 +19,6 @@ if (primoNumero > secondoNumero) {
 }
 
 
+document.getElementById("selezioneuno").innerHTML = primoNumero;
+document.getElementById("selezionedue").innerHTML = secondoNumero;
 document.getElementById("numero").innerHTML =  msg;
