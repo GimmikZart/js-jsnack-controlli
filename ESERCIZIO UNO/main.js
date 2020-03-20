@@ -19,4 +19,4 @@ if (primoNumero > secondoNumero) {
 }
 
 
-document.getElementById("risultato").innerHTML = "Il numero più grande è: " + msg;
+document.getElementById("numero").innerHTML =  msg;
